@@ -1,7 +1,4 @@
-# Daily GitHub Activity Log
-
-This repository tracks my daily learning and coding activities.
-
-## Day 1
-- Set up daily practice repository
-- Committed first README
+## Day 2
+- Factorial of a number
+- Palindrome number check
+- Prime number check
