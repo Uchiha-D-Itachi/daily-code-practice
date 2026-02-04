@@ -1,4 +1,4 @@
-## Day 2
-- Factorial of a number
-- Palindrome number check
-- Prime number check
+## Day 3
+- Reverse a number
+- Fibonacci series
+- Star pattern (right triangle)
