@@ -1,4 +1,4 @@
-## Day 3
-- Reverse a number
-- Fibonacci series
-- Star pattern (right triangle)
+## Day 4
+- Array input and output
+- Maximum and minimum element in array
+- Linear search
