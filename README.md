@@ -1,4 +1,4 @@
-## Day 4
-- Array input and output
-- Maximum and minimum element in array
-- Linear search
+## Day 5
+- Reverse an array
+- Frequency count of elements
+- Binary search (sorted array)
