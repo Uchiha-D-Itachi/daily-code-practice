@@ -1,4 +1,4 @@
-## Day 5
-- Reverse an array
-- Frequency count of elements
-- Binary search (sorted array)
+## Day 6
+- Reverse a string
+- Palindrome string check
+- Character frequency in string
