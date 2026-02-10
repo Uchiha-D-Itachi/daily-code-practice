@@ -1,4 +1,4 @@
-## Day 6
-- Reverse a string
-- Palindrome string check
-- Character frequency in string
+## Day 7
+- Class and object example
+- Constructor usage
+- Methods with parameters and return type
