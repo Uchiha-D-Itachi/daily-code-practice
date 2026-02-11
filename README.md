@@ -1,4 +1,5 @@
-## Day 7
-- Class and object example
-- Constructor usage
-- Methods with parameters and return type
+## Day 8
+- Single inheritance
+- Method overriding
+- Runtime polymorphism
+- super keyword
