@@ -1,5 +1,4 @@
-## Day 8
-- Single inheritance
-- Method overriding
-- Runtime polymorphism
-- super keyword
+## Day 9
+- Abstract class example
+- Interface implementation
+- Multiple inheritance using interfaces
