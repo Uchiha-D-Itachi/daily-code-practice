@@ -1,4 +1,5 @@
-## Day 9
-- Abstract class example
-- Interface implementation
-- Multiple inheritance using interfaces
+## Day 10
+- Basic try-catch
+- Multiple catch blocks
+- finally block
+- Custom exception
