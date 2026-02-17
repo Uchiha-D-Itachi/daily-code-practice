@@ -1,5 +1,5 @@
-## Day 12
-- Sorting using Collections.sort()
-- Comparable interface
-- Comparator interface
-- Lambda expression (Java 8)
+## Day 13
+- File creation
+- Writing to file (FileWriter)
+- Reading from file (FileReader)
+- BufferedReader usage
