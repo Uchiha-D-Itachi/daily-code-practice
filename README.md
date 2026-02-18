@@ -1,5 +1,5 @@
-## Day 13
-- File creation
-- Writing to file (FileWriter)
-- Reading from file (FileReader)
-- BufferedReader usage
+## Day 14
+- Thread creation using Thread class
+- Thread creation using Runnable interface
+- sleep() method
+- Synchronization example
