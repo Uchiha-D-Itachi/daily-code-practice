@@ -1,6 +1,5 @@
-## Day 16
-- Recursion basics
-- Factorial (recursive)
-- Fibonacci (recursive)
-- Sum of digits
-- Power using recursion
+## Day 17
+- Recursive string reversal
+- Recursive palindrome check
+- Recursive binary search
+- Recursive array reversal
