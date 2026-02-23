@@ -1,5 +1,5 @@
-## Day 17
-- Recursive string reversal
-- Recursive palindrome check
-- Recursive binary search
-- Recursive array reversal
+## Day 18
+- Bubble Sort
+- Optimized Bubble Sort
+- Selection Sort
+- Insertion Sort
