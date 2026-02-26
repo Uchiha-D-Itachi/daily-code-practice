@@ -1,6 +1,4 @@
-## Day 20
-- Implemented Singly Linked List
-- Insert at beginning
-- Insert at end
-- Delete by value
-- Display list
+## Day 21
+- Reverse linked list
+- Detect cycle (Floyd’s algorithm)
+- Find middle of linked list
