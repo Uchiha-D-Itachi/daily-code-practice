@@ -1,4 +1,5 @@
-## Day 21
-- Reverse linked list
-- Detect cycle (Floyd’s algorithm)
-- Find middle of linked list
+## Day 22
+- Stack using array
+- Stack using linked list
+- Queue using array
+- Circular queue
