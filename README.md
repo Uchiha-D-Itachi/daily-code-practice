@@ -1,6 +1,5 @@
-## Day 24
-- Level Order Traversal (BFS)
-- Binary Search Tree (BST)
-- Insert in BST
-- Search in BST
-- Inorder traversal of BST
+## Day 25
+- Delete in BST
+- Validate BST
+- Lowest Common Ancestor (LCA)
+- Diameter of Binary Tree
